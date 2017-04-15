@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">StudentData</string>
+    <string name="email">Email</string>
+    <string name="string_email" />
+    <string name="marks">Marks</string>
+    <string name="rollno">Rollno</string>
+    <string name="student_name">Student Name</string>
+    <string name="submit">submit</string>
+    <string name="click_here_to_display_data">Click here to display data</string>
+    <string name="enter_id_to_delete_data">Enter ID to delete Data</string>
+    <string name="delete_student_data">Delete Student Data</string>
+    <string name="textview" />
+    <string name="email1">Email</string>
+    <string name="id_of_student_to_update">ID of Student to Update</string>
+    <string name="marks2">Marks</string>
+    <string name="rollno3">Rollno</string>
+    <string name="student_name4">Student Name</string>
+    <string name="submit2">submit</string>
+    <string name="student_id">Student ID</string>
+    <string name="marks_1">Marks 1</string>
+    <string name="marks_2">Marks 2</string>
+    <string name="attendance">Attendance</string>
+    <string name="attendance_1">Attendance 1</string>
+    <string name="attendance_2">Attendance 2</string>
+    <string name="student_details">Student Details</string>
+    <string name="ut1">UT1</string>
+    <string name="ut2">UT2</string>
+    <string name="unit_test">Unit Test</string>
+    <string name="name">Name</string>
+</resources>
